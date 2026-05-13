@@ -1,0 +1,50 @@
+{
+  "n01-spiked-heart-drop": {
+    "full": "n01-spiked-heart-drop--full.png",
+    "detail": "n01-spiked-heart-drop--detail.png"
+  },
+  "n02-spiked-stud-choker": {
+    "full": "n02-spiked-stud-choker--full.png",
+    "detail": "n02-spiked-stud-choker--detail.png"
+  },
+  "n03-motif-pendant": {
+    "full": "n03-motif-pendant--full.png",
+    "detail": "n03-motif-pendant--detail.png"
+  },
+  "n04-spiked-oval-motif": {
+    "full": "n04-spiked-oval-motif--full.png",
+    "detail": "n04-spiked-oval-motif--detail.png"
+  },
+  "n05-charging-bull-double": {
+    "full": "n05-charging-bull-double--full.png",
+    "detail": "n05-charging-bull-double--detail.png"
+  },
+  "n06-boot-pendant": {
+    "full": "n06-boot-pendant--full.png",
+    "detail": "n06-boot-pendant--detail.png"
+  },
+  "n07-pearl-pendant": {
+    "full": "n07-pearl-pendant--full.png",
+    "detail": "n07-pearl-pendant--detail.png"
+  },
+  "n08-star-link": {
+    "full": "n08-star-link--full.png",
+    "detail": "n08-star-link--detail.png"
+  },
+  "n09-eagle-pendant": {
+    "full": "n09-eagle-pendant--full.png",
+    "detail": "n09-eagle-pendant--detail.png"
+  },
+  "n10-spider-pendant": {
+    "full": "n10-spider-pendant--full.png",
+    "detail": "n10-spider-pendant--detail.png"
+  },
+  "n11-pave-star": {
+    "full": "n11-pave-star--full.png",
+    "detail": "n11-pave-star--detail.png"
+  },
+  "n12-motif-pearl-repeat": {
+    "full": "n12-motif-pearl-repeat--full.png",
+    "detail": "n12-motif-pearl-repeat--detail.png"
+  }
+}
