@@ -1,0 +1,261 @@
+{
+  "_note": "Sixty-Mine necklace catalog — extracted from tech-pack spec sheets",
+  "_extracted": "2026-05-13",
+  "pieces": [
+    {
+      "slug": "n01-spiked-heart-drop",
+      "name": "Spiked Heart Drop Necklace",
+      "code": "69-NK-SPIKED-HEART",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "chain_style": "Dainty oval cable chain",
+      "chain_thickness_mm": 2.2,
+      "chain_length_in": "17 / 18.5 / 20 (adjustable)",
+      "pendant_size_mm": "14W × 21H",
+      "pendant_thickness_mm": 2.6,
+      "total_drop_mm": 30,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Thorned open-center silhouette with subtle uneven heart-shaped negative space",
+        "Elongated but restrained top and bottom spike points",
+        "Oxidized recessed finish with brighter raised edges",
+        "Petite integrated bail and connector ring"
+      ]
+    },
+    {
+      "slug": "n02-spiked-stud-choker",
+      "name": "Spiked Stud Choker",
+      "code": "69-CK-SPIKED-STUD",
+      "category": "chains",
+      "material": "Brass base",
+      "finish": "Silver plating with polished chrome-like finish",
+      "chain_style": "Alternating elongated cable links with integrated pointed stud links",
+      "chain_thickness_mm": 5.0,
+      "chain_length_in": "14 / 15 / 16 (adjustable)",
+      "pendant_size_mm": "Integrated center motif approx. 15 × 15",
+      "pendant_thickness_mm": 3.5,
+      "total_drop_mm": "~15 visible center drop",
+      "closure": "Lobster clasp with 3-size extender and small Sixty-Mine logo charm",
+      "details": [
+        "Bottom center link incorporates the Sixty-Mine star with raised cross as an integrated chain component, not a hanging charm",
+        "Repeating stud links match the original star-cross design language",
+        "Bright polished chrome-like silver, smooth reflective surfaces"
+      ]
+    },
+    {
+      "slug": "n03-motif-pendant",
+      "name": "Star Cross Motif Pendant Necklace",
+      "code": "69-NK-MOTIF-PENDANT",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "chain_style": "Oval cable link chain",
+      "chain_thickness_mm": 3.0,
+      "chain_length_in": "18 / 19 / 20 (adjustable)",
+      "pendant_size_mm": "23W × 27H",
+      "pendant_thickness_mm": 3.8,
+      "total_drop_mm": 35,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Raised sculptural star with centered cross motif",
+        "Oxidized recessed areas to enhance relief definition",
+        "Beveled star points with brighter raised edge finish",
+        "Engraved Sixty-Mine back logo in gothic blackletter style"
+      ]
+    },
+    {
+      "slug": "n04-spiked-oval-motif",
+      "name": "Spiked Oval Motif Necklace",
+      "code": "69-NK-SPIKED-OVAL",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "chain_style": "Cuban link chain",
+      "chain_thickness_mm": 5.0,
+      "chain_length_in": "18 / 19 / 20 (adjustable)",
+      "pendant_size_mm": "31W × 44H",
+      "pendant_thickness_mm": 4.8,
+      "total_drop_mm": 52,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Hollow open-center oval pendant construction",
+        "Raised sculptural star with centered cross motif inside",
+        "Outer spiked border with oxidized recessed detailing",
+        "Engraved Sixty-Mine back logo"
+      ]
+    },
+    {
+      "slug": "n05-charging-bull-double",
+      "name": "Charging Bull Double Charm Necklace",
+      "code": "69-CH-BULL-NK",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "chain_style": "Oval cable chain",
+      "chain_thickness_mm": 2.5,
+      "chain_length_in": "17 / 18.5 / 20 (adjustable)",
+      "main_pendant_size_mm": "25 diameter",
+      "mini_charm_size_mm": "14 diameter",
+      "total_drop_mm": "~35",
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Raised sculptural bull relief on main pendant with twisted rope border",
+        "Smaller star-cross emblem charm with oxidized recessed background",
+        "Dual-charm construction with shared bail",
+        "Engraved Sixty-Mine logo on the back of both charms"
+      ]
+    },
+    {
+      "slug": "n06-boot-pendant",
+      "name": "Boot Pendant Necklace",
+      "code": "69-NK-BOOT",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "chain_style": "Oval cable chain",
+      "chain_thickness_mm": 2.5,
+      "chain_length_in": "18 / 19 / 20 (adjustable)",
+      "pendant_size_mm": "18W × 33H",
+      "pendant_thickness_mm": 5.0,
+      "total_drop_mm": 40,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Raised sculptural western boot form",
+        "Oxidized recessed texture with worn antique look",
+        "Raised five-point star medallion with centered cross motif on the side",
+        "Angled shaft, pointed toe, and low block heel detailing"
+      ]
+    },
+    {
+      "slug": "n07-pearl-pendant",
+      "name": "Pearl Pendant Necklace",
+      "code": "69-NK-PEARL",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "pearl_detail": "15 mm simulated pearl",
+      "chain_style": "Fine oval cable chain",
+      "chain_thickness_mm": 2.0,
+      "chain_length_in": "18 / 19 / 20 (adjustable)",
+      "pendant_size_mm": "15W × 15H",
+      "total_drop_mm": 23,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Raised five-point star overlay with centered cross motif",
+        "Smooth round simulated pearl body with soft luster",
+        "Polished silver-plated outer elements with subtle oxidized detailing",
+        "Laser-engraved Sixty-Mine logo on reverse"
+      ]
+    },
+    {
+      "slug": "n08-star-link",
+      "name": "Star Link Necklace",
+      "code": "69-NK-STAR-LINK",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "chain_style": "Fine cable chain with integrated star links",
+      "chain_thickness_mm": 2.0,
+      "chain_length_in": "16 / 17 / 18 (adjustable)",
+      "center_pendant_size_mm": "18W × 18H",
+      "mini_star_link_size_mm": "6 approx.",
+      "pendant_thickness_mm": 2.8,
+      "total_drop_mm": 25,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Raised center five-point star pendant with centered cross motif",
+        "Repeating mini star links use the same star-and-cross design language",
+        "Fine articulated construction for flexible drape around neckline",
+        "Engraved or laser-engraved Sixty-Mine logo on reverse"
+      ]
+    },
+    {
+      "slug": "n09-eagle-pendant",
+      "name": "Eagle Pendant Necklace",
+      "code": "69-NK-EAGLE",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "chain_style": "Oval cable chain",
+      "chain_thickness_mm": 2.5,
+      "chain_length_in": "18 / 19 / 20 (adjustable)",
+      "pendant_size_mm": "34W × 34H",
+      "pendant_thickness_mm": 5.0,
+      "total_drop_mm": 42,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Raised sculptural eagle with spread-wing silhouette",
+        "Deep feather texture with oxidized recessed detailing",
+        "Five-point star drop with raised cross motif in talons",
+        "Engraved Sixty-Mine logo on reverse"
+      ]
+    },
+    {
+      "slug": "n10-spider-pendant",
+      "name": "Spider Pendant Necklace",
+      "code": "69-NK-SPIDER",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "chain_style": "Oval cable chain",
+      "chain_thickness_mm": 2.5,
+      "chain_length_in": "18 / 19 / 20 (adjustable)",
+      "pendant_size_mm": "23W × 31H",
+      "pendant_thickness_mm": 5.0,
+      "total_drop_mm": 38,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Raised sculptural spider form with articulated leg detailing",
+        "Oxidized recessed surface texture",
+        "Raised five-point star medallion with centered cross motif on abdomen",
+        "Engraved Sixty-Mine logo on reverse"
+      ]
+    },
+    {
+      "slug": "n11-pave-star",
+      "name": "Pavé Star Necklace",
+      "code": "69-NK-STAR",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "stone_detail": "Black pavé cubic zirconias",
+      "chain_style": "Fine curb chain",
+      "chain_thickness_mm": 1.8,
+      "chain_length_in": "18 / 19 / 20 (adjustable)",
+      "pendant_size_mm": "24W × 24H",
+      "pendant_thickness_mm": 3.8,
+      "total_drop_mm": 31,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Raised five-point star silhouette with centered cross motif",
+        "Tiny black pavé cubic zirconias set across the star surface",
+        "Polished outer frame with subtle oxidized detailing",
+        "Engraved Sixty-Mine logo on reverse"
+      ]
+    },
+    {
+      "slug": "n12-motif-pearl-repeat",
+      "name": "Motif Pearl Repeat Necklace",
+      "code": "69-NK-MPRN",
+      "category": "necklaces",
+      "material": "Brass base",
+      "finish": "Silver plating with oxidized antique finish",
+      "pearl_detail": "Simulated pearls, 8 mm approx.",
+      "chain_style": "Fine cable chain with integrated star links and pearl connectors",
+      "chain_thickness_mm": 2.0,
+      "chain_length_in": "16 / 17 / 18 (adjustable)",
+      "center_pendant_size_mm": "18W × 18H",
+      "side_star_link_size_mm": "10 approx.",
+      "pendant_thickness_mm": 2.8,
+      "total_drop_mm": 25,
+      "closure": "Lobster clasp with 3-size extender",
+      "details": [
+        "Raised center five-point star pendant with centered cross motif",
+        "Repeating side star links use the same star-cross design language as the center pendant",
+        "Simulated pearls spaced between star links along necklace",
+        "Side star links rotate 90° clockwise/anticlockwise as they travel up each side of the chain"
+      ]
+    }
+  ]
+}
